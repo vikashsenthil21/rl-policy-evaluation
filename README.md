@@ -36,7 +36,8 @@ def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
 ## State value function:
 ![image](https://github.com/user-attachments/assets/ab43fc93-1dc3-475a-bdc1-3add99b01c81)
 ## Best policy:
-![image](https://github.com/user-attachments/assets/f671dc9d-3c50-4e03-a554-dd1f5870f6a0)
+![image](https://github.com/user-attachments/assets/226da61a-f69f-4bff-a426-ffcb6c4aa63c)
+
 
 
 
